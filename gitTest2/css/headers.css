@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins:wght@300&family=Stylish&display=swap');
+/*font-family: 'EB Garamond', serif;
+font-family: 'Stylish', sans-serif;*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'EB Garamond', serif;
+}
+.navbar_custom{
+    background-color: #fff;
+}
+.navbar_logo{
+    width: 100px;
+    object-fit: contain;
+}
+.navbar_menu{
+    margin-left: auto;
+}
+.nav_custom_text{
+    font-size: 1.5rem;
+    color: black;
+    margin-left: 1em;
+}
+.custom_btn{
+    background-color:rgba(221, 86, 86, 0);
+}
+.custom_btn:hover{
+    background-color:lightpink;
+}
+/*carousel section*/
+.caption_btn{
+    text-decoration: none;
+}
+.carousel_custom_image{
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+}
+.carousel_custom_caption_text{
+    margin-bottom: 50px;
+    color: black;
+    text-shadow: -2px 0 rgba(221, 86, 86, 0.774)-2px 0 rgba(226, 30, 30, 0.774),
+    -2px 0 rgba(69, 7, 7, 0.774),-2px 0 rgba(235, 7, 7, 0.633);;
+}
+.carousel_custom_caption_para{
+    margin-top: -50px;
+    font-size: 1.4rem;
+    color: black;
+}
+.social_media a{
+    font-size:3rem;
+    padding: 2rem;
+}
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-instagram{
+    color: #b4063d;
+}  
+.fa-twitter{
+    color: #1c57d8;
+}  
+.fa-youtube{
+    color: #cf1913;
+}
+footer{
+    padding: 2rem;
+
+}  
+hr.line{
+    width: 75%;
+    margin: 1em auto;
+}
+footer p{
+    font-size: 1.1rem;
+
+}
+hr.line-100{
+    width: 100%;
+   
+}
+/*details.php jumbotron section*/
+.custom-container{
+    background-color: rgba(46, 44, 44, 0.289);
+}
+/*footer section*/
+

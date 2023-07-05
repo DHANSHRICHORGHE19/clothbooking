@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,
+body{
+    background-image: url(../images/background/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.container{
+    
+    height: 100%;
+}
+.card{
+    width: 500px;
+    background-color: rgba(0,0,0,0.2);
+}
+.register_btn:hover{
+    background-color: black;
+    color: #fff;
+    
+}
+
+
